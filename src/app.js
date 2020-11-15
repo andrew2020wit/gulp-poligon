@@ -1,5 +1,1 @@
-function hello1(x) {
-  console.log("Hello ", x, "!");
-}
-
-hello1("Bob");
+function hello1(l){console.log("Hello ",l,"!")}hello1("Bob");
