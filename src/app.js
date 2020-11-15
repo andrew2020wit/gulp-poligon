@@ -1,1 +1,0 @@
-function hello1(l){console.log("Hello ",l,"!")}hello1("Bob");
